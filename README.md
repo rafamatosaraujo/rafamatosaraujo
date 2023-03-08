@@ -10,7 +10,7 @@ Passionate about technology, I'm a self-taught developer with more than 5 years 
 
 💬 If you need help with your developer career, or with any tech project feel free to reach me. I'll be happy to help! 
 
-💼 Any freelance or consulting work? Contact me on [LinkdeIn](https://www.linkedin.com/in/rafamatosaraujo/)!
+💼 Any freelance or consulting work? Contact me on [personal website](https://rafamatosaraujo.com)!
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafamatosaraujo/)
